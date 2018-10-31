@@ -1,0 +1,2175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="seafile-client"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5LinguistTools\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Network\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5DBus\;CMake Files\third_party\;CMake Files\third_party\QtAwesome\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dist">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 dist"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="update-ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 update-ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="nb_NO_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 nb_NO_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="el_GR_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 el_GR_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ja_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 ja_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="nl_NL_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 nl_NL_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tr_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 tr_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zh_TW_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 zh_TW_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sv_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 sv_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="es_AR_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 es_AR_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hu_HU_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 hu_HU_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zh_CN_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 zh_CN_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="es_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 es_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fr_FR_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 fr_FR_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="utils">
+				<Option output="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/libutils.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSEAFILE_CLIENT_VERSION=1.0.0"/>
+					<Add option="-DQUAZIP_STATIC"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/src"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/third_party/QtAwesome"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/third_party/quazip"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtCore"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtGui"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtWidgets"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtNetwork"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtDBus"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/searpc"/>
+					<Add directory="/usr/include/glib-2.0"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/glib-2.0/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 utils"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="utils/fast">
+				<Option output="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/libutils.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSEAFILE_CLIENT_VERSION=1.0.0"/>
+					<Add option="-DQUAZIP_STATIC"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/src"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/third_party/QtAwesome"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/third_party/quazip"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtCore"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtGui"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtWidgets"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtNetwork"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtDBus"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/searpc"/>
+					<Add directory="/usr/include/glib-2.0"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/glib-2.0/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 utils/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="en_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 en_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quazip">
+				<Option output="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/libquazip.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSEAFILE_CLIENT_VERSION=1.0.0"/>
+					<Add option="-DQUAZIP_STATIC"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/src"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/third_party/QtAwesome"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/third_party/quazip"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtCore"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtGui"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtWidgets"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtNetwork"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtDBus"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/searpc"/>
+					<Add directory="/usr/include/glib-2.0"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/glib-2.0/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 quazip"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quazip/fast">
+				<Option output="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/libquazip.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSEAFILE_CLIENT_VERSION=1.0.0"/>
+					<Add option="-DQUAZIP_STATIC"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/src"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/third_party/QtAwesome"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/third_party/quazip"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtCore"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtGui"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtWidgets"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtNetwork"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtDBus"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/searpc"/>
+					<Add directory="/usr/include/glib-2.0"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/glib-2.0/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 quazip/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="it_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 it_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="es_MX_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 es_MX_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="he_IL_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 he_IL_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="de_DE_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 de_DE_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="is_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 is_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lv_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 lv_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pt_BR_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 pt_BR_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cs_CZ_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 cs_CZ_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="nl_BE_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 nl_BE_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pl_PL_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 pl_PL_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ca_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 ca_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pt_PT_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 pt_PT_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ru_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 ru_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="seafile-applet">
+				<Option output="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/seafile-applet" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSEAFILE_CLIENT_VERSION=1.0.0"/>
+					<Add option="-DQUAZIP_STATIC"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add option="-DQT_DBUS_LIB"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/src"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/third_party/QtAwesome"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/third_party/quazip"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/searpc"/>
+					<Add directory="/usr/include/glib-2.0"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/glib-2.0/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtCore"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtGui"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtWidgets"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtNetwork"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtDBus"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 seafile-applet"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="seafile-applet/fast">
+				<Option output="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/seafile-applet" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSEAFILE_CLIENT_VERSION=1.0.0"/>
+					<Add option="-DQUAZIP_STATIC"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add option="-DQT_DBUS_LIB"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/src"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/third_party/QtAwesome"/>
+					<Add directory="/home/rightknack/Downloads/seafile-client-master/third_party/quazip"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/searpc"/>
+					<Add directory="/usr/include/glib-2.0"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/glib-2.0/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtCore"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtGui"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtWidgets"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtNetwork"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtDBus"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 seafile-applet/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sk_SK_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 sk_SK_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ko_KR_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 ko_KR_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uk_ts">
+				<Option working_dir="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 uk_ts"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/qrc_QtAwesome.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/qrc_seafile-client.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/api/moc_api-client.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/api/moc_api-client.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/api/moc_api-request.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/api/moc_api-request.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/api/moc_requests.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/api/moc_requests.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_auto-update-mgr.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_auto-update-mgr.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_data-mgr.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_data-mgr.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_file-browser-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_file-browser-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_file-browser-manager.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_file-browser-manager.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_file-browser-requests.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_file-browser-requests.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_file-browser-search-tab.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_file-browser-search-tab.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_file-table.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_file-table.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_progress-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_progress-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_reliable-upload.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_reliable-upload.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_seafilelink-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_seafilelink-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_sharedlink-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_sharedlink-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_tasks.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_tasks.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_thumbnail-service.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_thumbnail-service.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_transfer-mgr.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/filebrowser/moc_transfer-mgr.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_account-info-service.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_account-info-service.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_account-mgr.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_account-mgr.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_auto-login-service.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_auto-login-service.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_avatar-service.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_avatar-service.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_configurator.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_configurator.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_customization-service.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_customization-service.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_daemon-mgr.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_daemon-mgr.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_events-service.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_events-service.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_log-uploader.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_log-uploader.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_message-poller.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_message-poller.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_network-mgr.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_network-mgr.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_open-local-helper.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_open-local-helper.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_repo-service-helper.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_repo-service-helper.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_repo-service.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_repo-service.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_seafile-applet.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_seafile-applet.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_server-status-service.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_server-status-service.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_settings-mgr.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_settings-mgr.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_traynotificationmanager.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_traynotificationmanager.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_traynotificationwidget.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/moc_traynotificationwidget.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/rpc/moc_rpc-client.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/rpc/moc_rpc-client.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/rpc/moc_rpc-server.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/rpc/moc_rpc-server.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_about-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_about-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_account-settings-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_account-settings-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_account-view.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_account-view.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_activities-tab.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_activities-tab.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_check-repo-root-perm-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_check-repo-root-perm-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_clone-tasks-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_clone-tasks-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_clone-tasks-table-model.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_clone-tasks-table-model.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_clone-tasks-table-view.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_clone-tasks-table-view.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_cloud-view.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_cloud-view.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_create-repo-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_create-repo-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_download-repo-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_download-repo-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_event-details-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_event-details-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_event-details-tree.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_event-details-tree.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_events-list-view.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_events-list-view.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_init-seafile-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_init-seafile-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_init-vdrive-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_init-vdrive-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_loading-view.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_loading-view.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_login-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_login-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_logout-view.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_logout-view.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_main-window.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_main-window.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_private-share-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_private-share-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_repo-detail-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_repo-detail-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_repo-item-delegate.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_repo-item-delegate.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_repo-tree-model.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_repo-tree-model.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_repo-tree-view.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_repo-tree-view.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_repos-tab.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_repos-tab.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_seafile-tab-widget.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_seafile-tab-widget.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_search-bar.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_search-bar.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_search-tab-items.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_search-tab-items.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_search-tab.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_search-tab.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_server-status-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_server-status-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_set-repo-password-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_set-repo-password-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_settings-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_settings-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_ssl-confirm-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_ssl-confirm-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_starred-file-item-delegate.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_starred-file-item-delegate.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_starred-files-list-model.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_starred-files-list-model.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_starred-files-list-view.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_starred-files-list-view.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_starred-files-tab.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_starred-files-tab.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_sync-errors-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_sync-errors-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_tab-view.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_tab-view.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_tray-icon.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_tray-icon.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_two-factor-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_two-factor-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_uninstall-helper-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_uninstall-helper-dialog.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_user-name-completer.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/src/ui/moc_user-name-completer.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/third_party/QtAwesome/moc_QtAwesome.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/third_party/QtAwesome/moc_QtAwesome.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/third_party/quazip/moc_quazipfile.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/third_party/quazip/moc_quazipfile.cpp.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/ui_about-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/ui_account-settings-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/ui_account-view.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/ui_clone-tasks-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/ui_cloud-view.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/ui_create-repo-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/ui_download-repo-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/ui_init-seafile-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/ui_init-vdrive-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/ui_login-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/ui_private-share-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/ui_repo-detail-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/ui_server-status-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/ui_set-repo-password-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/ui_settings-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/ui_ssl-confirm-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/ui_two-factor-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/cmake-build-debug/ui_uninstall-helper-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_ca.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_cs_CZ.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_de_DE.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_el_GR.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_en.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_es.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_es_AR.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_es_MX.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_fr_FR.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_he_IL.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_hu_HU.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_is.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_it.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_ja.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_ko_KR.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_lv.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_nb_NO.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_nl_BE.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_nl_NL.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_pl_PL.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_pt_BR.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_pt_PT.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_ru.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_sk_SK.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_sv.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_tr.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_uk.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_zh_CN.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/i18n/seafile_zh_TW.qm.rule">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/seafile-client.qrc">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/account-info-service.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/account-info-service.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/account-mgr.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/account-mgr.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/account.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/account.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/api/api-client.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/api/api-client.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/api/api-error.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/api/api-error.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/api/api-request.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/api/api-request.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/api/commit-details.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/api/commit-details.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/api/contact-share-info.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/api/contact-share-info.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/api/event.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/api/event.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/api/requests.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/api/requests.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/api/server-repo.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/api/server-repo.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/api/starred-file.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/api/starred-file.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/auto-login-service.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/auto-login-service.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/avatar-service.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/avatar-service.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/certs-mgr.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/certs-mgr.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/configurator.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/configurator.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/customization-service.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/customization-service.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/daemon-mgr.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/daemon-mgr.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/events-service.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/events-service.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/auto-update-mgr.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/auto-update-mgr.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/data-cache.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/data-cache.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/data-mgr.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/data-mgr.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/file-browser-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/file-browser-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/file-browser-manager.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/file-browser-manager.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/file-browser-requests.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/file-browser-requests.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/file-browser-search-tab.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/file-browser-search-tab.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/file-table.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/file-table.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/progress-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/progress-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/reliable-upload.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/reliable-upload.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/seaf-dirent.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/seaf-dirent.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/seafilelink-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/seafilelink-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/sharedlink-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/sharedlink-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/tasks.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/tasks.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/thumbnail-service.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/thumbnail-service.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/transfer-mgr.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/filebrowser/transfer-mgr.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/i18n.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/i18n.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/log-uploader.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/log-uploader.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/main.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/message-poller.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/message-poller.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/network-mgr.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/network-mgr.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/open-local-helper.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/open-local-helper.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/repo-service-helper.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/repo-service-helper.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/repo-service.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/repo-service.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/rpc/clone-task.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/rpc/clone-task.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/rpc/local-repo.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/rpc/local-repo.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/rpc/rpc-client.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/rpc/rpc-client.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/rpc/rpc-server.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/rpc/rpc-server.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/rpc/sync-error.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/rpc/sync-error.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/seafile-applet.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/seafile-applet.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/server-status-service.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/server-status-service.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/settings-mgr.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/settings-mgr.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/traynotificationmanager.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/traynotificationmanager.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/traynotificationwidget.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/traynotificationwidget.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/about-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/about-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/account-settings-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/account-settings-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/account-view.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/account-view.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/activities-tab.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/activities-tab.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/check-repo-root-perm-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/check-repo-root-perm-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/clone-tasks-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/clone-tasks-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/clone-tasks-table-model.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/clone-tasks-table-model.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/clone-tasks-table-view.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/clone-tasks-table-view.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/cloud-view.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/cloud-view.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/create-repo-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/create-repo-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/download-repo-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/download-repo-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/event-details-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/event-details-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/event-details-tree.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/event-details-tree.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/events-list-view.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/events-list-view.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/init-seafile-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/init-seafile-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/init-vdrive-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/init-vdrive-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/loading-view.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/loading-view.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/login-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/login-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/logout-view.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/logout-view.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/main-window.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/main-window.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/private-share-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/private-share-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/proxy-style.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/proxy-style.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/repo-detail-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/repo-detail-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/repo-item-delegate.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/repo-item-delegate.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/repo-item.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/repo-item.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/repo-tree-model.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/repo-tree-model.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/repo-tree-view.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/repo-tree-view.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/repos-tab.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/repos-tab.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/seafile-tab-widget.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/seafile-tab-widget.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/search-bar.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/search-bar.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/search-tab-items.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/search-tab-items.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/search-tab.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/search-tab.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/server-status-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/server-status-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/set-repo-password-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/set-repo-password-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/settings-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/settings-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/ssl-confirm-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/ssl-confirm-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/starred-file-item-delegate.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/starred-file-item-delegate.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/starred-file-item.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/starred-file-item.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/starred-files-list-model.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/starred-files-list-model.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/starred-files-list-view.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/starred-files-list-view.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/starred-files-tab.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/starred-files-tab.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/sync-errors-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/sync-errors-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/tab-view.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/tab-view.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/tray-icon.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/tray-icon.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/two-factor-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/two-factor-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/uninstall-helper-dialog.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/uninstall-helper-dialog.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/user-name-completer.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/ui/user-name-completer.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/api-utils.cpp">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/api-utils.h">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/file-utils.cpp">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/file-utils.h">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/json-utils.cpp">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/json-utils.h">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/log.c">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/log.h">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/paint-utils.cpp">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/paint-utils.h">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/process-linux.cpp">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/rsa.cpp">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/rsa.h">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/stl.cpp">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/stl.h">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/translate-commit-desc.cpp">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/translate-commit-desc.h">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/uninstall-helpers.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/uninstall-helpers.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/utils.cpp">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/src/utils/utils.h">
+			<Option target="utils"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/QtAwesome/QtAwesome.cpp">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/QtAwesome/QtAwesome.h">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/QtAwesome/QtAwesome.qrc">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/JlCompress.cpp">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/JlCompress.h">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/qioapi.cpp">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/quaadler32.cpp">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/quaadler32.h">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/quacrc32.cpp">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/quacrc32.h">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/quagzipfile.cpp">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/quagzipfile.h">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/quaziodevice.cpp">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/quaziodevice.h">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/quazip.cpp">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/quazip.h">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/quazipdir.cpp">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/quazipdir.h">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/quazipfile.cpp">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/quazipfile.h">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/quazipfileinfo.cpp">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/quazipfileinfo.h">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/quazipnewinfo.cpp">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/quazipnewinfo.h">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/unzip.c">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/unzip.h">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/zip.c">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/quazip/zip.h">
+			<Option target="quazip"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/ui/about-dialog.ui">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/ui/account-settings-dialog.ui">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/ui/account-view.ui">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/ui/clone-tasks-dialog.ui">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/ui/cloud-view.ui">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/ui/create-repo-dialog.ui">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/ui/download-repo-dialog.ui">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/ui/init-seafile-dialog.ui">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/ui/init-vdrive-dialog.ui">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/ui/login-dialog.ui">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/ui/private-share-dialog.ui">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/ui/repo-detail-dialog.ui">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/ui/server-status-dialog.ui">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/ui/set-repo-password-dialog.ui">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/ui/settings-dialog.ui">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/ui/ssl-confirm-dialog.ui">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/ui/two-factor-dialog.ui">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/ui/uninstall-helper-dialog.ui">
+			<Option target="seafile-applet"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/seafile-client.qrc">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5LinguistTools\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5LinguistTools/Qt5LinguistToolsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5LinguistTools\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5LinguistTools/Qt5LinguistToolsMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5LinguistTools\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Network/Qt5NetworkConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5DBus/Qt5DBusConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5DBus\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5DBus/Qt5DBusConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5DBus\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5DBus/Qt5DBusConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5DBus\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5DBus/Qt5DBusMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5DBus\"/>
+		</Unit>
+		<Unit filename="/home/rightknack/Downloads/seafile-client-master/third_party/QtAwesome/QtAwesome.qrc">
+			<Option virtualFolder="CMake Files\third_party\QtAwesome\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

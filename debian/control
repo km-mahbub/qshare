@@ -1,0 +1,50 @@
+Source: qshare-gui
+Section: net
+Priority: extra
+Maintainer: m.eik michalke <meik.michalke@hhu.de>
+Build-Depends:
+    debhelper (>= 7),
+    libssl-dev,
+    libcurl4-openssl-dev,
+    libsqlite3-dev,
+    intltool,
+    libglib2.0-dev,
+    libevent-dev,
+    uuid-dev,
+    qtbase5-dev,
+    libqt5webkit5-dev,
+    qttools5-dev,
+    libtool,
+    valac,
+    libjansson-dev,
+    cmake,
+    qtchooser,
+    qttools5-dev-tools,
+    libsearpc-dev,
+    libqshare-dev
+Standards-Version: 3.9.5
+Homepage: https://f.quadcom.com/slides
+
+Package: qshare-gui
+Architecture: any
+Depends:
+    ${shlibs:Depends},
+    ${misc:Depends},
+    qshare-daemon (>= 1.0.0)
+Conflicts: qshare
+Description: qShare desktop client.
+ qShare is an open source cloud storage system with features
+ on privacy protection and teamwork. Collections of files are
+ called libraries, and each library can be synced separately.
+ A library can also be encrypted with a user chosen password.
+ qShare also allows users to create groups and easily sharing
+ files into groups.
+
+Package: qshare-gui-dbg
+Section: debug
+Architecture: any
+Depends:
+    qshare-gui (= ${binary:Version}),
+    ${misc:Depends},
+Description: Debugging symbols for the qShare-gui package.
+ This package contains the debugging symbols for the qShare-gui package.
